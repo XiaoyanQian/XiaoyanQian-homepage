@@ -47,6 +47,8 @@ a:hover { text-decoration: underline; }
 .site-nav a:hover { color: var(--ink); text-decoration: none; }
 .site-nav a.active { color: var(--accent); font-weight: 600; }
 .site-nav a.active::after { content: ""; position: absolute; left: 50%; transform: translateX(-50%); bottom: 0; width: 1.5em; height: 2px; background: var(--accent); border-radius: 1px; }
+/* On the home page, hide the header wordmark (the hero below already shows the name) */
+body.home .site-name { display: none; }
 
 /* Hero */
 .hero { padding: 2.8rem 0 1.4rem; display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; }
