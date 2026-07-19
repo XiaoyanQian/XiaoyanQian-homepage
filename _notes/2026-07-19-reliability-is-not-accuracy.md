@@ -1,6 +1,6 @@
 ---
 title: "Reliability is not accuracy: what a screening number hides"
-date: 2026-07-19
+date: 2026-07-01
 summary: "A cancer-screening model that finds 90% of patients can still be a poor bet for deployment. The governance question is not how accurate it is, but what its errors cost, who bears them, and whether anyone will notice when it drifts."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A model that works in one hospital is not a model that works"
-date: 2026-07-19 09:02
+date: 2026-07-04
 summary: "Medical AI is usually validated where it was built. But the sample a model learned from is not the world it will be deployed into, and the gap between them is a governance problem, not a technical footnote."
 ---
 

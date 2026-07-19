@@ -1,6 +1,6 @@
 ---
 title: "80% risk does not mean an 80% chance"
-date: 2026-07-19 09:08
+date: 2026-07-19
 summary: "A medical AI can rank patients well and still be wrong about probabilities. If '80% risk' does not mean roughly 80 in 100 similar patients, clinicians and patients are being miscalibrated, not informed."
 ---
 

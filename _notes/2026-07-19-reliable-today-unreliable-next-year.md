@@ -1,6 +1,6 @@
 ---
 title: "Reliable today, unreliable next year"
-date: 2026-07-19 09:03
+date: 2026-07-06
 summary: "A model that passes validation at launch can quietly decay as patients, equipment, and workflows change. The world moves; the model does not move with it unless someone makes it."
 ---
 

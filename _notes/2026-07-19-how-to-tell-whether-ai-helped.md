@@ -1,6 +1,6 @@
 ---
 title: "How to actually tell whether a medical AI helped"
-date: 2026-07-19 09:05
+date: 2026-07-11
 summary: "If before-and-after cannot prove a medical AI worked, what can? Comparison: a control group, a natural experiment, or a difference-in-differences design that isolates the AI's effect from everything else that changed."
 ---
 

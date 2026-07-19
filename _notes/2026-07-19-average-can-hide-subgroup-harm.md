@@ -1,6 +1,6 @@
 ---
 title: "A model that helps on average can still harm a subgroup"
-date: 2026-07-19 09:06
+date: 2026-07-14
 summary: "Average performance is a comfortable number. It is also where inequity hides. A medical AI can improve the aggregate while quietly getting worse for the patients who can least afford it."
 ---
 

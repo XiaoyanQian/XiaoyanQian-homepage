@@ -1,6 +1,6 @@
 ---
 title: "Outcomes improved after we deployed AI. That is not proof the AI improved them"
-date: 2026-07-19 09:04
+date: 2026-07-09
 summary: "After a medical AI goes live, results often look better. But 'better after' is not 'better because'. Mistaking one for the other is how systems get credit they have not earned."
 ---
 

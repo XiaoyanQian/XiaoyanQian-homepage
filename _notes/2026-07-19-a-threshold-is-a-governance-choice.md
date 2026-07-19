@@ -1,6 +1,6 @@
 ---
 title: "A risk threshold is not a technical detail. It is a governance choice"
-date: 2026-07-19 09:07
+date: 2026-07-16
 summary: "Most medical AI outputs a risk score, and someone draws a line: above it, act; below it, do not. That line silently allocates false alarms, missed cases, cost, and responsibility. Deciding where it sits is governance, not engineering."
 ---
 
