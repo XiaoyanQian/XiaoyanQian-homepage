@@ -25,7 +25,12 @@ fi
 
 git add -A
 git commit -m "$MSG"
-git push
+
+# Push to every configured remote (origin + candice, etc.).
+for remote in $(git remote); do
+  echo "Pushing to $remote ..."
+  git push "$remote" main
+done
 
 echo ""
 echo "Done. Live in ~1-2 min at:"
