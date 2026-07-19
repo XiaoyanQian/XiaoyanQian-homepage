@@ -1,0 +1,31 @@
+title: Xiaoyan Qian
+description: Medical AI Governance and Regulatory Science
+tagline: Medical AI Governance and Regulatory Science
+url: ""
+baseurl: "/XiaoyanQian-homepage"
+
+collections:
+  cases:
+    output: true
+    permalink: /cases/:name/
+  artifacts:
+    output: true
+    permalink: /artifacts/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: cases
+    values:
+      layout: case
+  - scope:
+      path: ""
+      type: artifacts
+    values:
+      layout: artifact
+
+markdown: kramdown
