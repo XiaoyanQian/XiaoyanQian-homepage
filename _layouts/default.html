@@ -16,11 +16,11 @@
         <span class="site-role">Medical AI Governance &amp; Regulatory Science</span>
       </a>
       <nav class="site-nav">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/portfolio/' | relative_url }}">Governance Portfolio</a>
-        <a href="{{ '/writing/' | relative_url }}">Research &amp; Writing</a>
-        <a href="{{ '/notes/' | relative_url }}">Notes</a>
-        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+        <a href="{{ '/portfolio/' | relative_url }}"{% if page.url contains '/portfolio' or page.url contains '/cases' or page.url contains '/artifacts' %} class="active"{% endif %}>Governance Portfolio</a>
+        <a href="{{ '/writing/' | relative_url }}"{% if page.url contains '/writing' %} class="active"{% endif %}>Research &amp; Writing</a>
+        <a href="{{ '/notes/' | relative_url }}"{% if page.url contains '/notes' %} class="active"{% endif %}>Notes</a>
+        <a href="{{ '/about/' | relative_url }}"{% if page.url contains '/about' %} class="active"{% endif %}>About</a>
       </nav>
     </div>
   </header>
