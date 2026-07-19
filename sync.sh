@@ -26,10 +26,14 @@ fi
 git add -A
 git commit -m "$MSG"
 
-# Push to every configured remote (origin + candice, etc.).
-for remote in $(git remote); do
+# Push to origin first (the live site), then any other remotes.
+# A failure on one remote does not stop the others.
+echo "Pushing to origin ..."
+git push origin main || echo "  -> origin FAILED (check access/auth)"
+
+for remote in $(git remote | grep -vx origin); do
   echo "Pushing to $remote ..."
-  git push "$remote" main
+  git push "$remote" main || echo "  -> $remote FAILED (you may not have write access to this repo)"
 done
 
 echo ""
