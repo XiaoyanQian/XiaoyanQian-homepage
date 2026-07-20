@@ -23,9 +23,14 @@ This is my main project. At a joint university-industry AI laboratory at HKU, I 
 
 **What I build**
 
+- **Deep-learning foundations (peer-reviewed, first author)**: 3D perception and automatic annotation, published at AAAI (2023) and in the International Journal of Computer Vision (2026). This is the publicly citable core of "I build," and it underpins the twin's representation and visualization layers.
 - **System architecture** across the twin's layers: sensing and data ingestion, patient representation, prediction, and governed explanation, aligned with the accountability map from my research.
 - **3D visualization component**: I led the design, integration, testing, and delivery of the twin's 3D generation and rendering pipeline, including model selection, generation quality evaluation, client-server integration, and cost constraints. The pipeline was demonstrated publicly on a large-scale LED wall at the laboratory opening.
 - **Delivery under real constraints**: model development, intern supervision, stakeholder reporting, and shipping working demonstrations on hard deadlines.
+
+**Current status.** The twin's model and framework are under active development. The system today is an internal research demonstration, not a deployment-ready product, and I describe it as exactly that. A public demonstration (architecture overview and a short system demo) will be released once the underlying research is published and the demonstration has been reviewed for accuracy and confidentiality. I would rather show it when the evidence behind it is stable than stage a preview that overstates the system.
+
+<!-- DEMO PLACEHOLDER: when ready, replace the last sentence above (or add here) with the embedded demo video + five-layer architecture figure. Gate: (1) Lancet DH Viewpoint accepted/published, (2) demo polished, (3) reviewed for confidentiality. -->
 
 **How I govern it** (Governance Pack v0.1, sanitized)
 
