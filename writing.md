@@ -15,7 +15,7 @@ Full publication list: <a href="https://scholar.google.com/citations?user=XNdT5E
 </p>
 
 ## Anchor: accountable patient-facing interpretation
-<p class="badge badge-published">Viewpoint manuscript · submitted</p>
+<p class="badge badge-published">Lancet Digital Health Viewpoint manuscript · submitted</p>
 
 **Beyond digital replicas: accountable patient-facing interpretation for medical digital twins.**
 
