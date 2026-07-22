@@ -74,13 +74,14 @@ approval owner, effective date, and known limitations.
 </p>
 
 <p class="section-intro">
-Three of these are published in full and span the deployment lifecycle. Two are drawn from the governance pack I developed for my medical digital twin (project-derived, sanitized): the pre-deployment charter and the risk register. The monitoring table is a scenario-based instrument. Because the twin is pre-deployment, the operational examples shown are illustrative worked cases used to exercise the structure, not data from a live system.
+Four of these are published in full and span the deployment lifecycle. Three are drawn from the governance pack I developed for my medical digital twin (project-derived, sanitized): the pre-deployment charter, the risk register, and the dependency register. The monitoring table is a scenario-based instrument. Because the twin is pre-deployment, the operational examples shown are illustrative worked cases used to exercise the structure, not data from a live system.
 </p>
 
 | Artifact | Lifecycle stage | Evidence | Core design principle |
 | --- | --- | --- | --- |
 | [Pre-deployment governance charter]({{ '/artifacts/pre-deployment-charter/' | relative_url }}) | Before deployment | <span class="badge badge-project">Project-derived</span> | Governance is built in parallel with the system, before deployment, not added afterward |
 | [Risk register]({{ '/artifacts/risk-register/' | relative_url }}) | Risk governance | <span class="badge badge-project">Project-derived</span> | No owner means nobody manages it; no review date means it gets forgotten |
+| [Dependency register]({{ '/artifacts/dependency-register/' | relative_url }}) | Infrastructure / continuity | <span class="badge badge-project">Project-derived</span> | The risk is not only a wrong model, but an unavailable one; every external dependency needs an owner, a fallback, and a review trigger |
 | [Post-deployment monitoring table]({{ '/artifacts/monitoring-table/' | relative_url }}) | In-life monitoring | <span class="badge badge-scenario">Scenario-based</span> | Every metric needs a review owner, a trigger threshold, and a required action |
 
 **Further instruments** (available, sanitized, on request):
