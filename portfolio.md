@@ -58,7 +58,7 @@ The common structure is deliberate: it is designed to be teachable, so each case
 </p>
 
 <p class="section-intro">
-The casebook is organized as an <strong>AI-SaMD readiness set</strong>: the cases span the governance a clinical AI deployment actually needs, and each one produces a concrete tool that can be adapted to a specific system rather than reused as a generic template. Coverage across the deployment lifecycle:
+The casebook spans the full AI-SaMD deployment lifecycle — <strong>nine readiness areas, from intended-use boundaries to post-market monitoring, each producing a concrete, adaptable governance tool</strong> rather than a generic template:
 </p>
 
 <ul class="readiness-list">
