@@ -69,6 +69,6 @@ Credibility in governance work starts with honest claims about one's own evidenc
   <button type="button" class="copy-bio-btn" onclick="navigator.clipboard.writeText(document.getElementById('copy-bio-text').innerText)">Copy</button>
 </div>
 
-Email: <a href="mailto:qianxy10@connect.hku.hk">qianxy10@connect.hku.hk</a> · <a href="mailto:xyqian@eee.hku.hk">xyqian@eee.hku.hk</a> · <a href="https://scholar.google.com/citations?user=XNdT5EMAAAAJ">Google Scholar</a> · <a href="https://www.linkedin.com/in/xiaoyan-qian-b2256b88/">LinkedIn</a> · <a href="ORCID_URL_PLACEHOLDER">ORCID</a>
+Email: <a href="mailto:qianxy10@connect.hku.hk">qianxy10@connect.hku.hk</a> · <a href="mailto:xyqian@eee.hku.hk">xyqian@eee.hku.hk</a> · <a href="https://scholar.google.com/citations?user=XNdT5EMAAAAJ">Google Scholar</a> · <a href="https://www.linkedin.com/in/xiaoyan-qian-b2256b88/">LinkedIn</a> · <a href="https://orcid.org/0000-0003-4426-0667">ORCID</a>
 
 <p class="muted">If we have not met, email is the easiest first step. I think best in writing, and once a conversation has something concrete to work with, I am glad to continue in person.</p>
