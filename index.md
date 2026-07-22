@@ -26,9 +26,7 @@ title: Home
 
 ## Who I am
 
-I am an AI researcher (PhD, The University of Hong Kong) and R&D manager leading the development of a patient-facing medical digital twin at a joint university-industry AI laboratory at HKU. I came to governance from the builder's side: I design and train the models, coordinate the stakeholders, and prepare the deployment plans. That position taught me that the hardest questions in medical AI are not about model accuracy. They are about intended use, validation evidence, responsibility boundaries, escalation authority, and what happens after deployment when the model quietly degrades.
-
-I now build both sides of that bridge. On the research side, my work argues that the next frontier for medical digital twins is accountable patient-facing interpretation, supported by a layered accountability map and a falsifiable maturity framework. On the practice side, I produce the governance instruments that high-stakes AI needs before it reaches patients: risk registers, RACI matrices, monitoring plans, incident response SOPs, change control logs, and vendor due diligence checklists.
+I am an AI researcher (PhD, The University of Hong Kong) and R&D manager leading the development of a patient-facing medical digital twin at a joint university-industry AI laboratory at HKU. I came to governance from the builder's side, and that taught me the hardest questions in medical AI are not about model accuracy but about intended use, responsibility boundaries, escalation authority, and what happens after deployment. I now build both sides of that bridge: the system, and the governance it needs before it reaches patients. <a href="{{ '/about/' | relative_url }}">More about my path →</a>
 
 ## Three things to look at
 
@@ -52,14 +50,6 @@ I now build both sides of that bridge. On the research side, my work argues that
     <a href="{{ '/writing/' | relative_url }}">Read more →</a>
   </li>
 </ul>
-
-## How I label evidence
-
-Credibility in governance work starts with honest claims about one's own evidence. Everything on this site carries one of three labels:
-
-- **Project-derived**: work produced inside a real medical AI project, sanitized for public sharing. It reflects pre-deployment governance design, not post-market experience.
-- **Scenario-based**: governance exercises built on realistic deployment patterns and public regulatory material. They train and demonstrate judgement, not deployment history.
-- **Published writing**: manuscripts and public writing, with their actual publication status stated.
 
 ## Contact
 

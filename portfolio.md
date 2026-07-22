@@ -14,6 +14,10 @@ A curated, sanitized selection of governance work. Each item is labelled by evid
 Full internal materials remain private; what appears here focuses on governance structure, risk ownership, and deployment-readiness reasoning rather than confidential technical detail.
 </p>
 
+<p class="section-intro">
+Credibility in governance work starts with honest claims about one's own evidence, so every item carries one of three labels. <strong>Project-derived</strong>: work produced inside a real medical AI project, sanitized for public sharing; it reflects pre-deployment governance design, not post-market experience. <strong>Scenario-based</strong>: governance exercises built on realistic deployment patterns and public regulatory material; they demonstrate judgement, not deployment history. <strong>Published writing</strong>: manuscripts and public writing, with their actual publication status stated.
+</p>
+
 <h2 id="projects">Flagship project</h2>
 
 ### Patient-facing Medical Digital Twin: Building the System and Its Governance
