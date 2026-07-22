@@ -51,14 +51,14 @@ a:hover { text-decoration: underline; }
 body.home .site-name { display: none; }
 
 /* Hero */
-.hero { padding: 2.8rem 0 1.4rem; display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; }
-.hero-text { flex: 1 1 24em; }
-.hero .portrait { width: 190px; height: auto; border-radius: 12px; border: 1px solid var(--line); }
+.hero { padding: 2.8rem 0 1.4rem; }
 .hero h1 { font-size: 2.2rem; margin: 0 0 0.4rem; }
-.hero .tagline { font-size: 1.2rem; color: var(--accent); font-family: Georgia, serif; margin: 0 0 1.1rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.15rem 0.55rem; }
+.hero .tagline { font-size: 1.2rem; color: var(--accent); font-family: Georgia, serif; margin: 0 0 1.3rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.15rem 0.55rem; }
 .hero .tagline .role { white-space: nowrap; }
 .hero .tagline .sep { color: var(--line); }
-.hero .lede { font-size: 1.05rem; color: var(--ink); max-width: 46em; }
+.hero-body { display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; }
+.hero-body .lede { flex: 1 1 24em; font-size: 1.05rem; color: var(--ink); max-width: 46em; margin: 0; }
+.hero-body .portrait { width: 190px; height: auto; border-radius: 12px; border: 1px solid var(--line); }
 
 /* Cards */
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; margin: 1.6rem 0; padding: 0; list-style: none; }

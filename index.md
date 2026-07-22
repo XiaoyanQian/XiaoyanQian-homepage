@@ -4,9 +4,9 @@ title: Home
 ---
 
 <div class="hero">
-  <div class="hero-text">
-    <h1>Xiaoyan Qian</h1>
-    <p class="tagline"><span class="role">AI R&amp;D Manager</span><span class="sep">|</span><span class="role">AI PhD</span><span class="sep">|</span><span class="role">Medical AI &amp; AI Governance</span><span class="sep">|</span><span class="role">High-Risk AI Deployment</span></p>
+  <h1>Xiaoyan Qian</h1>
+  <p class="tagline"><span class="role">AI R&amp;D Manager</span><span class="sep">|</span><span class="role">AI PhD</span><span class="sep">|</span><span class="role">Medical AI &amp; AI Governance</span><span class="sep">|</span><span class="role">High-Risk AI Deployment</span></p>
+  <div class="hero-body">
     <p class="lede">
       I create AI technical prototypes, and I translate them into governance-ready,
       stakeholder-facing, and deployment-oriented systems. That second step is the
@@ -15,8 +15,8 @@ title: Home
       translating governance goals back into engineering requirements. I do this for
       high-risk AI in medical and regulatory settings.
     </p>
+    <img class="portrait" src="{{ '/assets/img/portrait.png' | relative_url }}" alt="Portrait of Xiaoyan Qian">
   </div>
-  <img class="portrait" src="{{ '/assets/img/portrait.png' | relative_url }}" alt="Portrait of Xiaoyan Qian">
 </div>
 
 ## Who I am
