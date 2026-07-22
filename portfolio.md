@@ -53,6 +53,24 @@ post-market decision state: Approve, Conditional approval, Clinical review, or R
 The common structure is deliberate: it is designed to be teachable, so each case doubles as a training exercise for building governance judgement in others.
 </p>
 
+<p class="section-intro">
+The casebook is organized as an <strong>AI-SaMD readiness set</strong>: the cases span the governance a clinical AI deployment actually needs, and each one produces a concrete tool that can be adapted to a specific system rather than reused as a generic template. Coverage across the deployment lifecycle:
+</p>
+
+<ul class="readiness-list">
+  <li><strong>Intended use &amp; scope</strong> — boundary enforcement, off-label use creep</li>
+  <li><strong>Clinical validation &amp; change control</strong> — predetermined change control (PCCP), version governance</li>
+  <li><strong>Patient safety &amp; incident support</strong> — false-negative incident response, worked risk register and SOP</li>
+  <li><strong>Consent &amp; patient-facing safety</strong> — disclosure, scope, and uncertainty surfacing</li>
+  <li><strong>Agent &amp; human oversight</strong> — agent decision rights, human override and audit log</li>
+  <li><strong>Data governance</strong> — multi-hospital data readiness</li>
+  <li><strong>Fairness &amp; equity</strong> — subgroup monitoring</li>
+  <li><strong>Vendor &amp; supply governance</strong> — vendor due diligence, model and cloud dependency</li>
+  <li><strong>Post-market monitoring</strong> — continuous drift monitoring and escalation</li>
+</ul>
+
+<p class="section-intro">If you are running a clinical AI or AI-SaMD deployment, several of these modules can be adapted directly to your system. <a href="{{ '/about/' | relative_url }}">Get in touch</a> if a governance perspective grounded in real system-building would be useful.</p>
+
 <p class="section-intro"><strong>Start here:</strong> <a href="{{ '/cases/model-drift/' | relative_url }}">Medical AI Model Drift in Clinical Deployment</a> is the flagship case. It pairs directly with the two published artifacts below (monitoring table and risk register), showing one governance problem end to end: detect the drift, own it, decide what to do.</p>
 
 <ul class="case-list">

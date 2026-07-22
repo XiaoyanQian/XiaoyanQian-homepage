@@ -124,6 +124,11 @@ th { background: var(--accent-light); font-weight: 600; }
 .muted { color: var(--muted); }
 .section-intro { color: var(--muted); max-width: 46em; }
 
+/* AI-SaMD readiness coverage list */
+.readiness-list { max-width: 46em; margin: 0 0 1.4rem; padding-left: 1.1rem; }
+.readiness-list li { margin: 0.3rem 0; font-size: 0.95rem; }
+.readiness-list strong { color: var(--ink); }
+
 @media (max-width: 600px) {
   .site-nav { flex-wrap: wrap; }
   .site-nav a { flex: 0 0 auto; text-align: left; margin-right: 1.3rem; padding-bottom: 0.5rem; font-size: 0.95rem; }
