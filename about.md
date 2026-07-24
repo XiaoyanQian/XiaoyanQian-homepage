@@ -8,7 +8,7 @@ permalink: /about/
 
 ## The short version
 
-I build AI prototypes and translate them into governance-ready pathways for high-risk medical and regulatory contexts. I am an AI PhD (The University of Hong Kong) and R&D manager working on medical AI. I lead the technical development and governance framing of a patient-facing medical digital twin at a joint university-industry AI laboratory at HKU, covering model design, cross-party coordination, deployment planning, clinical risk considerations, and responsible AI documentation.
+I build AI prototypes and translate them into the governance a hospital, a regulator, and a legal team can each act on, for high-risk medical and regulatory contexts. I am an AI PhD (The University of Hong Kong) and R&D manager working on medical AI. I lead the technical development and governance framing of a patient-facing medical digital twin at a joint university-industry AI laboratory at HKU, covering model design, cross-party coordination, deployment planning, clinical risk considerations, and responsible AI documentation.
 
 ## Following technology into governance
 
